@@ -1,12 +1,17 @@
-#Project Description:
-In this project, we will apply unsupervised learning techniques to a real-world data set and use data visualization tools to communicate the insights gained from the analysis.
-The data set for this project is the "Wholesale Data" dataset containing information about various products sold by a grocery store.
-The project will involve the following tasks:
+#Project Description
 
-#Exploratory data analysis and pre-processing: We will import and clean the data sets, analyze and visualize the relationships between the different variables, handle missing values and outliers, and perform feature engineering as needed.
-Unsupervised learning: We will use the Wholesale Data dataset to perform k-means clustering, hierarchical clustering, and principal component analysis (PCA) to identify patterns and group similar data points together. We will determine the optimal number of clusters and communicate the insights gained through data visualization.
+In this project, I applied unsupervised learning techniques to a wholesale customer dataset and use data visualization tools to communicate insights for business decision-making.
 
-The ultimate goal of the project is to gain insights from the data sets and communicate these insights to stakeholders using appropriate visualizations and metrics to make informed decisions based on the business questions asked.
+#Project Tasks:
+Exploratory Data Analysis & Pre-processing: Import and examine the dataset, analyze spending distributions and correlations between product categories, detect outliers using box plots, and apply robust scaling to handle extreme values in the data.
+
+#Unsupervised Learning: Implement three key techniques:
+
+-K-means clustering using elbow method to determine optimal clusters
+
+-Hierarchical clustering with dendrogram analysis for cluster validation
+
+-Principal Component Analysis (PCA) to identify key variance drivers and reduce dimensionality
 
 #Dataset Information
 
